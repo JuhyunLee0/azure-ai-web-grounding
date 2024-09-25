@@ -1,0 +1,5 @@
+/.venv
+/local
+
+.env
+assistant_api_version.ipynb
