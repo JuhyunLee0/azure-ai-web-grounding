@@ -27,7 +27,7 @@ pip install -r requirements.txt
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/bing-search-citation.git
+    git clone https://github.com/JuhyunLee0/bing-search-citation
     ```
 2. Navigate to the project directory:
     ```bash
