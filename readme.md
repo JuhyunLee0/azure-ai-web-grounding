@@ -25,18 +25,7 @@ pip install -r requirements.txt
 
 ## Usage
 
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/JuhyunLee0/bing-search-citation
-    ```
-2. Navigate to the project directory:
-    ```bash
-    cd bing-search-citation
-    ```
-3. Run the main notebook or script:
-    ```bash
-    jupyter notebook main.ipynb
-    ```
+- Choose the note that you wish to run and follow the steps.
 
 ## License
 
